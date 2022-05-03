@@ -1,0 +1,5 @@
+{
+    "workbench.panel.defaultLocation": "bottom",
+    "files.autoSave": "onFocusChange",
+    "editor.mouseWheelZoom": true
+}
